@@ -12,8 +12,8 @@ Automatizacion-PreEntrega/
 ├── README.md
 └── tests/
     ├── test_login.py
-    ├── test_contacto.py
-    ├── test_busqueda.py
+    ├── test_inventario.py
+    ├── test_carrito.py
 ```
 
 ## Ejecución
